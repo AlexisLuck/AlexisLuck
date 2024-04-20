@@ -1,7 +1,11 @@
-### Hi everyone! 👋 Greetings! 👋
+### Hi everyone! Greetings! 👋
 
 
-I am Aleksey Shukanov, a multiclass of an analyst 📊 and a programmer 💻. In my spare time I love to make courses as a methodologyst.
+I am **Aleksey Shukanov**! Currently I am  studying **Python** 💻.
+
+I have strong skills in business development and project management.
+
+In my spare time I love to walk and travel.
 
 Since 2022 I am located in Armenia 🇦🇲.
 
