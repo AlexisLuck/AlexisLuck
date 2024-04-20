@@ -9,7 +9,7 @@ In my spare time I love to walk and travel.
 
 Since 2022 I am located in Armenia 🇦🇲.
 
-I speak: native 🇷🇺, good 🇺🇸, beginner level 🇦🇲 / chn / 🇩🇪.
+I speak: native 🇷🇺, good 🇺🇸, beginner level 🇦🇲 / CN / 🇩🇪.
 
 [![Telegram Badge](https://img.shields.io/badge/-AlexisLuck-gold?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/alexix_luck)](https://t.me/alexis_luck)
 [![LinkedIn Badge](https://img.shields.io/badge/-Aleksey-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aleksey-shukanov-018a67131/)](https://www.linkedin.com/in/aleksey-shukanov-018a67131/)
