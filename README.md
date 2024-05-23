@@ -1,18 +1,18 @@
 ### Hi everyone! Greetings! 👋
 
 
-I am **Aleksey Shukanov**! Currently I am  studying **Python** 💻.
+I am **Aleksey Shukanov**! Currently I am  studying **Python** :snake: 💻.
 
 I have strong skills in business development and project management.
 
-In my spare time I love to walk and travel.
+In my spare time I love to walk :walking: and travel :airplane:.
 
-Since 2022 I am located in Armenia 🇦🇲.
+Since 2022 I am located in **Armenia** 🇦🇲.
 
-I speak: native 🇷🇺, good 🇺🇸, beginner level 🇦🇲 / CN / 🇩🇪.
+I speak: native :ru:, good :us:, beginner level 🇦🇲 / :cn: / 🇩🇪.
 
-[![Telegram Badge](https://img.shields.io/badge/-AlexisLuck-gold?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/alexix_luck)](https://t.me/alexis_luck)
-[![LinkedIn Badge](https://img.shields.io/badge/-Aleksey-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aleksey-shukanov-018a67131/)](https://www.linkedin.com/in/aleksey-shukanov-018a67131/)
+[![Telegram Badge](https://img.shields.io/badge/-AlexisLuck-darkblue?style=flat-oval&logo=Telegram&logoColor=white&link=https://www.t.me/alexix_luck)](https://t.me/alexis_luck)
+[![LinkedIn Badge](https://img.shields.io/badge/-Aleksey-blue?style=flat-oval&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/aleksey-shukanov-018a67131/)](https://www.linkedin.com/in/aleksey-shukanov-018a67131/)
 
 Among numerous technologies I especially love:
 
