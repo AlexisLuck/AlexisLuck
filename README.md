@@ -3,7 +3,9 @@
 
 I am **Aleksey Shukanov**! Currently I am  studying **Python** :snake: 💻.
 
-I have strong skills in business development and project management.
+I have a higher education in laser engineering. :white_check_mark:
+
+I have strong skills in business development and project management :heavy_exclamation_mark:
 
 In my spare time I love to walk :walking: and travel :airplane:.
 
